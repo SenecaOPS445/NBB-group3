@@ -22,3 +22,10 @@ def get_most_frequent_sudo_commands(log_lines):
     ]
     
     return commands_report
+
+def append_to_report(header, content_list):
+    """Function to append header and content to the report"""
+    print(header)
+    for content in content_list:
+        print(content)
+
