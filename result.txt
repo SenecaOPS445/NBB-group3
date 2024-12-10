@@ -1,0 +1,25 @@
+
+--------------------------------------------------
+group3
+--------------------------------------------------
+Python Version: 3.12.7 (main, Oct  1 2024, 11:15:50) [GCC 14.2.1 20240910]
+Ran on 2024-12-02 12:43:50.532882
+Git commit used: commit 171fd6139dea2c245fd7b6d581ff23e5c1f52f67
+Merge: 5cd4a4e e2496ac
+Author: Pshrestha18 <156871799+Pshrestha18@users.noreply.github.com>
+Date:   Fri Nov 29 17:44:11 2024 -0500
+
+    Merge pull request #6 from SenecaOPS445/Pshrestha18-patch-2
+    
+    Rename Final Commit to Part_2.py
+
+
+--------------------------------------------------
+Relevant, useful, shows ambition           2.0/  3
+Comments and Documentation                 1.0/  5
+Adequate commits with good messages        3.0/  5
+No redundant code, variable names          1.0/  2
+
+--------------------------------------------------
+Total: 7.0/15
+FEEDBACK:
